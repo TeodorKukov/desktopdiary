@@ -3,3 +3,4 @@ locales/
 credits.html
 icudtl.dat
 /nbproject/private/
+node_modules/
